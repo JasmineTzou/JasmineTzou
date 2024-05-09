@@ -11,7 +11,6 @@ Work 👩🏻‍💻: Data analysis & Project management
 - Languages: Python, SQL, R, SAS
 - Cloud Platform: AWS (S3, SageMaker), GCP 
 - Tools & Frameworks: Git, Docker, PyTorch, TensorFlow, PySpark, Hadoop
-- NLP Toolkit: NLTK, Huggingface, SparkNLP
 
 ⚡ Fun fact: recently like to watch NBA on treadmill in my apartment
 
