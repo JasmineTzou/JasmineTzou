@@ -13,7 +13,7 @@ Passionate about utilizing data science skills to provide data-driven business i
 - Tools & Frameworks: Git, Docker, PyTorch, TensorFlow, PySpark, Hadoop
 
 
-⚡ Fun fact: Recently like to watch NBA on treadmill in my apartment
+⚡ Fun fact: Recently like to watch NBA while walking on treadmill in my apartment
 
 <!--
 **JasmineTzou/JasmineTzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
