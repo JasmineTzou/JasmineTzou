@@ -1,12 +1,10 @@
 ### Hi there 👋, this is Jasmine
 
 welcome to my coding world🌎  
+Passionate about utilizing data science skills to provide data-driven business impact!✨
 
-Passionate about utilizing data science skills to provide data-driven business impact!✨/
-
-Study👩🏻‍🎓: BS Statistics🇹🇼 + MS Applied data science🇺🇸  
-
-Work 👩🏻‍💻: Data analysis & Project management
+- Study👩🏻‍🎓: BS Statistics🇹🇼 + MS Applied data science🇺🇸  
+- Work 👩🏻‍💻: Data analysis & Project management
 
 
 #### Languages and Tools:
@@ -15,7 +13,7 @@ Work 👩🏻‍💻: Data analysis & Project management
 - Tools & Frameworks: Git, Docker, PyTorch, TensorFlow, PySpark, Hadoop
 
 
-⚡ Fun fact: recently like to watch NBA on treadmill in my apartment
+⚡ Fun fact: Recently like to watch NBA on treadmill in my apartment
 
 <!--
 **JasmineTzou/JasmineTzou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
