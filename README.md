@@ -1,9 +1,9 @@
 ### Hi there 👋, this is Jasmine
 
-welcome to my coding world🌎
-Passionate about utilizing data science skills to provide data-driven business impact!✨
+welcome to my coding world🌎/
+Passionate about utilizing data science skills to provide data-driven business impact!✨/
 
-Study👩🏻‍🎓: BS Statistics🇹🇼 + MS Applied data science🇺🇸
+Study👩🏻‍🎓: BS Statistics🇹🇼 + MS Applied data science🇺🇸/
 Work 👩🏻‍💻: Data analysis & Project management
 
 
