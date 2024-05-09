@@ -1,9 +1,11 @@
 ### Hi there 👋, this is Jasmine
 
-welcome to my coding world🌎/
+welcome to my coding world🌎  
+
 Passionate about utilizing data science skills to provide data-driven business impact!✨/
 
-Study👩🏻‍🎓: BS Statistics🇹🇼 + MS Applied data science🇺🇸/
+Study👩🏻‍🎓: BS Statistics🇹🇼 + MS Applied data science🇺🇸  
+
 Work 👩🏻‍💻: Data analysis & Project management
 
 
@@ -11,6 +13,7 @@ Work 👩🏻‍💻: Data analysis & Project management
 - Languages: Python, SQL, R, SAS
 - Cloud Platform: AWS (S3, SageMaker), GCP 
 - Tools & Frameworks: Git, Docker, PyTorch, TensorFlow, PySpark, Hadoop
+
 
 ⚡ Fun fact: recently like to watch NBA on treadmill in my apartment
 
